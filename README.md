@@ -5,5 +5,5 @@ seleçao_país ={                        #dicionario python
    "Portugal":"seleçao",
  "Noruega":"seleçao"
 }
-seleçao = seleçao_país["Brasil"]
-print(seleçao)
+seleçao = seleçao_país
+print(seleçao_país)
